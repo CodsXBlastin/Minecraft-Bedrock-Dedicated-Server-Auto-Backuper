@@ -13,7 +13,7 @@ You also need pynput,pygame,shutil,time,datetime installed for this to work.
 7. to stop it go to the controll window and press f3 then click on the command prompt
 
 when it is running you can't do anything else on the computer or else it will not backup
-you can pause it to do other things
+you can pause it to do other things on your computer
 if the python window closes type stop in the command window and press enter
 this will boot everyone from the server while saving, but will come right back up
 the backups are stored in the backup folder in the server folder labeld day, month, year, hour, minute, second
