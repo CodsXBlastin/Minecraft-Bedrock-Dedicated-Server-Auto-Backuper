@@ -5,7 +5,7 @@
 ##############################################################################################
 
 backupinterval = 60   #       Minutes
-worldname = '_fill this in_'  # as in server.prorerties
+worldname = 'My World'  # as in server.prorerties
 #     ! ! ! ! ! Edit within quotes ! ! ! !
 
 ###################################################################################
