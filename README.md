@@ -1,5 +1,6 @@
 # Minecraft-Bedrock-Dedicated-Server-Auto-Backuper
 This only works for windows
+Please note this is my first python program that manages files and there are probably better ways to do this.
 
 You must have python installed for this to run
 You also need pynput,pygame,shutil,time,datetime installed for this to work.
